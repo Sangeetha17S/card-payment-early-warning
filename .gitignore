@@ -1,0 +1,15 @@
+# Dataset files
+*.xls
+*.xlsx
+*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files and API keys
+.env
+.env.*
